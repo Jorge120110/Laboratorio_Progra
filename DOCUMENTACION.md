@@ -31,4 +31,12 @@ UX/UI: la interfaz para el usuario debe ser simple, atractiva para el usuario co
 
 tambien agreda la funcion de traducir la frace al  español que lo muestre automaticamente abajo de la frase original
 
+** Problemas Encontrados
+Durante un momento copilot empezo a generar codigo de kotlin (aun habiendole espeficiado que era java) por lo que se tuvo recordar que hacer y todo fue bien,
+
+Hubo problemas con la conexion http pero se corrigio cambiando de servicio http.
+
+** Reflexion
+
+Trabajar con IA es bastante rapido y potente siempre y cuando se le instruya bastante bien con los requisitos y las peticiones, gemini es algo malo para la generacion de diseños.
 Capturas disponibles en el Word o en Readme
